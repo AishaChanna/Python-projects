@@ -5,9 +5,9 @@ This is a simple password generator application built using PyQt5 in Python. The
 ## Features:
 Password Complexity Options:
 
-Easy: Lowercase letters only
-Medium: Lowercase and uppercase letters, numbers
-Strong: Lowercase and uppercase letters, numbers, and special characters
+Easy: Lowercase letters only<br>
+Medium: Lowercase and uppercase letters, numbers<br>
+Strong: Lowercase and uppercase letters, numbers, and special characters<br>
 
 ## Screenshots:
 <img width="200" alt="Capture" src="https://github.com/AishaChanna/Python-projects/assets/89415381/51a96277-423e-41ab-9fdc-129e30334d40">
