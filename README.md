@@ -33,4 +33,5 @@ OrderPal is developed in Python, making it a reliable and easy-to-maintain solut
 ## Screenshots
 ![image alt](https://github.com/AishaChanna/Python-projects/blob/506c48b345a7edc70d935e1bdda9b49776542744/OrderPal/Screenshot%201.png)
 ![image alt](https://github.com/AishaChanna/Python-projects/blob/0e390568c50c1327c5ab120c9dfa773bdfc97eca/OrderPal/Screenshot%202.png)
+![image alt](https://github.com/AishaChanna/Python-projects/blob/9b7c7a3fd6fe2e5c7259c12b0a73cf748a54ace5/OrderPal/Screenshot%203.png)
 
