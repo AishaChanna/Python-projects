@@ -30,3 +30,6 @@ Customer Reviews: Simple system for providing and viewing feedback.
 Table Reservation: Efficient table booking system.
 OrderPal is developed in Python, making it a reliable and easy-to-maintain solution for enhancing the dining experience.
 
+## Screenshots
+![image alt](https://github.com/AishaChanna/Python-projects/blob/506c48b345a7edc70d935e1bdda9b49776542744/OrderPal/Screenshot%201.png)
+
