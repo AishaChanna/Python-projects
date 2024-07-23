@@ -13,22 +13,56 @@ Strong: Lowercase and uppercase letters, numbers, and special characters<br>
 <img width="201" alt="Capture" src="https://github.com/AishaChanna/Python-projects/assets/89415381/26e77dd8-c926-4ff3-b541-8e90664a1746">
 
 
-# Project 2 OrderPal-Python Restaurant Ordering System
-## Description
-OrderPal is a versatile Python-based application designed to streamline the restaurant ordering process. It offers an intuitive interface for customers to:
+#Project:2 OrderPal Restaurant Ordering System
 
-Browse the Menu: Includes a variety of appetizers, main courses, desserts, and beverages.
-Place and Manage Orders: Add, remove, and review items in your order.
-Leave and View Reviews: Submit feedback and read customer reviews.
-Reserve Tables: Book tables and specify reservation times.
-Handle Special Requests: Include any special requests with your order.
+## Overview
 
-## Key Features:
-Dynamic Menu: Comprehensive menu with detailed item categorization.
-Order Management: Easily manage and modify your current order.
-Customer Reviews: Simple system for providing and viewing feedback.
-Table Reservation: Efficient table booking system.
-OrderPal is developed in Python, making it a reliable and easy-to-maintain solution for enhancing the dining experience.
+OrderPal is a restaurant ordering system designed to streamline placing and managing orders. It features a user-friendly interface that allows customers to view the menu, add items to their order, reserve a table, and leave reviews.
+
+## Features
+
+- **Menu Display:**
+  - View a detailed menu with categories such as appetizers, main courses, desserts, and beverages. Each item shows its price.
+
+- **Order Management:**
+  - **Add Items:** Select items from the menu and specify quantities.
+  - **View Order:** Check the current order details, including the total amount and any special requests.
+  - **Remove Items:** Remove specific items or adjust quantities from your order.
+  - **Clear Order:** Reset the order to start fresh.
+  - **Finalize Order:** Confirm the order, specify any special requests, and enter customer details.
+
+- **Table Reservation:**
+  - Reserve a table by providing your name, phone number, and preferred reservation time.
+
+- **Customer Reviews:**
+  - Leave and view reviews to share and read feedback about the restaurant.
+
+## How It Works
+
+- **Display Menu:**
+  - The system presents a categorized menu to choose from.
+
+- **Add to Order:**
+  - Choose items and quantities to add to your order.
+
+- **Manage Order:**
+  - View the current order, make changes, or clear the entire order.
+
+- **Finalize:**
+  - Enter your details and finalize the order.
+
+- **Reserve Table:**
+  - Optionally reserve a table for your visit.
+
+- **Leave a Review:**
+  - Share your dining experience through customer reviews.
+
+## Usage
+
+1. **Run the script** to start the system.
+2. **Follow the on-screen options** to navigate through the menu and order process.
+3. **Use the system** to manage orders, reservations, and reviews.
+
 
 ## Screenshots
 ![image alt](https://github.com/AishaChanna/Python-projects/blob/506c48b345a7edc70d935e1bdda9b49776542744/OrderPal/Screenshot%201.png)
