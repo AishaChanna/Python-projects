@@ -13,7 +13,7 @@ Strong: Lowercase and uppercase letters, numbers, and special characters<br>
 <img width="201" alt="Capture" src="https://github.com/AishaChanna/Python-projects/assets/89415381/26e77dd8-c926-4ff3-b541-8e90664a1746">
 
 
-#Project:2 OrderPal Restaurant Ordering System
+# Project:2 OrderPal Restaurant Ordering System
 
 ## Overview
 
